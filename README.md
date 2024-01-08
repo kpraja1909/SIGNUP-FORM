@@ -51,13 +51,3 @@ This project is licensed under the MIT License. See the LICENSE.txt file for det
 
 ===============================================================================
 
-Additional Information:
-------------------------
-- Feel free to customize the styling, add features, or enhance the form based on your project requirements.
-
-- If you encounter any issues or have suggestions, please open an issue in the issue tracker: 
-  https://github.com/your-username/your-repository/issues
-
-- Acknowledgments: Mention any third-party libraries, resources, or inspiration that contributed to the project.
-
-===============================================================================
