@@ -9,18 +9,6 @@ Users can fill in their details, such as name, email, birthdate, and preferred u
 
 ===============================================================================
 
-Installation:
---------------
-1. Clone the repository:
-   git clone https://github.com/your-username/your-repository.git
-
-2. Open the project directory:
-   cd your-repository
-
-3. Open the HTML file in a web browser or serve it using a development server.
-
-===============================================================================
-
 Usage:
 -------
 1. Open the `index.html` file in your preferred web browser.
